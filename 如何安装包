@@ -1,0 +1,8 @@
+运行cmd 然后将C:\Users\Tangl\AppData\Local\Programs\Python\Python36-32\Scripts 中的pip 
+
+拖入cmd 然后空格 install 然后 空格 加包或者模块的名字
+
+
+或者
+
+在该第三方网站下载相关包， 然后解压缩。 用VS Code 运行。 先cd到相应文档下，然后 python setup.py build   然后 python setup.py install
